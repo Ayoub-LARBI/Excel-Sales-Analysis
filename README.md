@@ -8,7 +8,8 @@ This **Sales Performance Dashboard** was built from the ground up as an independ
 This project highlights my ability to take raw information and turn it into a compelling, interactive narrative that informs business decisions.
 
 ## 📂 Dashboard File
-You can explore the final product here: **[Sales_Performance_Dashboard.xlsx](Sales_Performance_Dashboard.xlsx)**
+You can explore the final product here: **[Sales_Performance_Dashboard.xlsx](Sales_Performance_Dashboard.xlsx)**  
+<img width="1370" height="581" alt="Dashboard-Screenshot" src="https://github.com/user-attachments/assets/fc027bd4-df6e-4fa6-a47a-6802564be2c8" />
 
 ## 🛠️ Excel Skills Used
 The following features were utilized to bring this dashboard to life:
