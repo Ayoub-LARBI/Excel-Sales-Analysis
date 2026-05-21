@@ -9,7 +9,7 @@ This project highlights my ability to take raw information and turn it into a co
 
 ## 📂 Dashboard File
 You can explore the final product here: **[Sales_Performance_Dashboard.xlsx](Sales_Performance_Dashboard.xlsx)**  
-<img width="1370" height="581" alt="Dashboard-Screenshot" src="https://github.com/user-attachments/assets/fc027bd4-df6e-4fa6-a47a-6802564be2c8" />
+<img width="1227" height="567" alt="Dashboard-Screenshot" src="https://github.com/user-attachments/assets/a6e164a9-2b21-46a4-a244-fe2b463fdb04" />
 
 ## 🛠️ Excel Skills Used
 The following features were utilized to bring this dashboard to life:
